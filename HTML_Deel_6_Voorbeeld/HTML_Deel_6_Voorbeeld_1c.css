@@ -1,0 +1,7 @@
+/*opmaak -> printer*/
+
+header,
+nav,
+footer {
+    display: none;
+}

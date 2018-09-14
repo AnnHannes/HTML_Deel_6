@@ -1,0 +1,17 @@
+body {
+    background-color: #d9e7ec;
+    color: black;
+    font-family: "Myriad Pro", Helvetica, Arial, sans-serif;
+}
+
+.vet {
+    font-weight: bold;
+}
+
+.cursief {
+    font-style: italic;
+}
+
+.onderlijnen {
+    text-decoration: underline
+}

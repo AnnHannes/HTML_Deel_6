@@ -1,0 +1,40 @@
+/* opmaak -> centraal op de pagina, meer kleuren, meer witruimte */
+
+body {
+    background-color: #666;
+    color: #fff;
+}
+
+div {
+    max-width: 800px;
+    margin: auto;
+    border: 5px solid red;
+    padding: 25px;
+    background-color: #fff;
+    color: #000;
+}
+
+header,
+footer {
+    background-color: #000;
+    color: #fff;
+}
+
+nav {
+    background-color: #ccc;
+    color: #000;
+}
+
+#boven {
+    text-transform: uppercase;
+}
+
+.vet {
+    font-weight: bold;
+}
+
+.onderlijn {
+    text-decoration: underline;
+}
+
+
